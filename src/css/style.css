@@ -1,0 +1,289 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: auto;
+  height: 100%;
+  background-color: #000000;
+}
+
+/*painel principal*/
+header {
+  background: #560C8A;
+  width: 100%;
+  height: 90%;
+
+}
+
+header img {
+  width: 5%;
+}
+
+header .links ul {
+  justify-content: center;
+  width: 100%;
+  display: flex;
+  list-style: none;
+  position: absolute;
+  top: 0rem;
+  margin-top: 1%;
+  gap: 5%;
+
+}
+
+
+nav a,
+.mobile-menu a {
+  color: #FFEEEE;
+  display: flex;
+  text-decoration: none;
+  font-size: 5mm;
+  border: solid 2px;
+  margin-left: 2%;
+  font-family: "Orbitron", sans-serif;
+  padding: 0 3rem 0 3rem;
+  border-radius: 100px 0 100px 0;
+}
+
+ul li a:hover {
+  background-color: #000000;
+  color: #560C8A;
+}
+
+.painel img {
+  display: flex;
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.painel p {
+  color: #D8D5D5;
+  display: flex;
+  margin: 2%;
+  position: absolute;
+  top: 15%;
+  overflow-wrap: break-word;
+  height: 40%;
+  width: 50%;
+  font-size: 20px;
+  line-height: 1.5;
+  font-family: "Orbitron", sans-serif;
+
+}
+
+.gif .gif-sung {
+  width: 35%;
+  position: absolute;
+  top: 45%;
+  margin-left: 57%;
+  border: solid 5px #4E2E47;
+
+}
+
+/*Personagens*/
+.card {
+  top: 130%;
+  background-color: #000000;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+}
+
+.card img {
+  align-content: center;
+  width: 80%;
+  height: 100%;
+  margin-left: 10%;
+  position: relative;
+  background-color: #560C8A;
+  border-radius: 10mm 0 10mm 0;
+
+}
+
+.card {
+  position: absolute;
+}
+
+.card h2 {
+  position: absolute;
+  z-index: 1;
+  color: #D8D5D5;
+  display: flex;
+  flex-direction: column;
+  writing-mode: vertical;
+  font-size: 2.3rem;
+  font-family: "Orbitron", sans-serif;
+}
+
+.card p {
+  position: absolute;
+  height: 95%;
+  width: 20.3%;
+  color: #EAECFF;
+  top: 0%;
+  border-radius: 10mm 0 10mm 0;
+  padding-top: 2%;
+  margin-left: 2.2%;
+  text-align: center;
+  overflow-wrap: break-word;
+  line-height: 1.5;
+  font-family: "Orbitron", sans-serif;
+}
+
+.Chae p,
+.Hee p,
+.Sung p,
+.jinho p {
+  opacity: 0;
+  transition: opacity 0.10s ease;
+  cursor: pointer;
+}
+
+.Chae:hover p,
+.Hee:hover p,
+.Sung:hover p,
+.jinho:hover p {
+  background: rgb(86, 12, 138);
+  background: linear-gradient(270deg, rgba(86, 12, 138, 0.6848328018188476) 51%, rgba(0, 0, 0, 0.9596979480319553) 97%);
+  opacity: 1;
+}
+
+
+
+/*video trailer*/
+
+.trailer {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 50rem;
+  height: 20rem;
+}
+
+.trailer iframe {
+  position: absolute;
+  top: 0;
+
+}
+
+.trailer h2 {
+  color: #D8D5D5;
+  position: absolute;
+  top: -5rem;
+  font-size: 10mm;
+  padding: 0 2% 0 2%;
+  border: solid 1mm #FFFFFF;
+  border-radius: 10mm 0 10mm 0;
+  font-family: "Orbitron", sans-serif;
+}
+
+.trailer .info p {
+  position: absolute;
+  color: white;
+  right: 75%;
+  height: 10%;
+  width: 20%;
+  line-height: 1.5;
+  top: 0;
+  font-family: "Orbitron", sans-serif;
+  text-align: center;
+  overflow-wrap: break-word;
+  padding-top: 5rem;
+}
+
+.trailer .info2 p {
+  position: absolute;
+  color: white;
+  line-height: 1.5;
+  left: 75%;
+  height: 10%;
+  width: 20%;
+  top: 0;
+  font-family: "Orbitron", sans-serif;
+  text-align: center;
+  overflow-wrap: break-word;
+  padding-top: 5rem;
+
+}
+
+/*jogo*/
+
+.jogo {
+  background-color: #560C8A;
+  position: relative;
+  display: flex;
+  top: 60rem;
+  height: 36rem;
+  border-radius: 50mm 0 70mm 0;
+}
+
+.jogo img {
+  position: absolute;
+  width: 75%;
+  margin: 2%;
+  border: solid 5px #4E2E47;
+}
+
+.jogo h2 {
+  position: relative;
+  color: #FFFFFF;
+  left: 85%;
+  margin-top: 2%;
+  display: flex;
+  font-family: "Orbitron", sans-serif;
+}
+
+.jogo p {
+  position: relative;
+  overflow-wrap: break-word;
+  color: #EEE4E4;
+  left: 72%;
+  line-height: 1.5;
+  width: 20%;
+  height: 50%;
+  margin-top: 6%;
+  text-align: center;
+  padding-left: 2px;
+  font-family: "Orbitron", sans-serif;
+}
+
+.rodape {
+  background-color: #560C8A;
+  position: relative;
+  display: flex;
+  padding: 1%;
+  top: 65rem;
+  justify-content: end;
+}
+
+/*menu mobile*/
+.mobile-menu-icon {
+  display: none;
+}
+
+.mobile-menu {
+  display: none;
+}
+
+.open {
+  display: block;
+}
+
+
+.mobile-menu ul {
+  list-style: none;
+
+}
+
+.mobile-menu ul li a {
+  justify-content: center;
+  position: relative;
+  display: flex;
+  left: 100%;
+  margin-bottom: 5%;
+  margin-top: 3%;
+}

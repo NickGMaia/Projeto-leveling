@@ -1,0 +1,1941 @@
+@media(max-width: 2560px) {
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 9%;
+        height: 9%;
+
+    }
+
+    .links ul {
+        right: 1rem;
+
+    }
+
+    .links ul li a {
+        font-size: 50px;
+        border: solid 5px;
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 2%;
+        text-align: center;
+        top: 25vh;
+        width: 35%;
+        height: 20%;
+        font-size: 50px;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -40vh;
+        width: 30%;
+        margin-left: 65%;
+    }
+
+    .card {
+        top: 110rem;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .card img {
+        align-content: center;
+        width: 80%;
+        height: 100%;
+        margin-left: 10%;
+        position: relative;
+    }
+
+    .card h2 {
+        display: flex;
+        position: absolute;
+        font-size: 75px;
+    }
+
+    .card p {
+        font-size: 45px;
+    }
+
+    .trailer {
+        top: 70rem;
+
+    }
+
+    .trailer h2 {
+        font-size: 80px;
+        top: -10rem;
+    }
+
+    .trailer iframe {
+        width: 50%;
+    }
+
+    .trailer .info p {
+        height: 60%;
+        width: 20%;
+        top: -10rem;
+        font-size: 45px;
+
+    }
+
+    .trailer .info2 p {
+        left: 75%;
+        height: 60%;
+        width: 20%;
+        top: -10rem;
+        font-size: 45px;
+
+    }
+
+
+    .jogo {
+        top: 100rem;
+        height: 70rem;
+        width: 100%;
+        z-index: 1;
+    }
+
+    .jogo h2 {
+        font-size: 50px;
+        left: 84%;
+    }
+
+    .jogo p {
+        left: 72%;
+        font-size: 30px;
+    }
+
+    .rodape {
+        top: 99rem;
+    }
+}
+@media(max-width: 1440px) {
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 9%;
+        height: 9%;
+
+    }
+
+    .links ul {
+        padding: 1rem;
+        right: 1rem;
+    }
+
+    .links ul li a {
+        font-size: 20px;
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 2%;
+        text-align: center;
+        font-size: 25px;
+        top: 25vh;
+        width: 35%;
+        height: 20%;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -70vh;
+        width: 30%;
+        margin-left: 65%;
+    }
+
+    .card {
+        top: 65rem;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .card img {
+        align-content: center;
+        width: 80%;
+        height: 100%;
+        margin-left: 10%;
+        position: relative;
+    }
+
+    .card h2 {
+        display: flex;
+        position: absolute;
+        top: -3rem;
+        font-size: 40px;
+    }
+
+    .card p {
+        font-size: 15px;
+    }
+
+    .trailer {
+        top: 60rem;
+    }
+
+    .trailer iframe {
+        width: 50%;
+    }
+
+    .trailer h2 {
+        font-size: 50px;
+        top: -30%;
+    }
+
+    .trailer .info p {
+        height: 60%;
+        width: 20%;
+        top: -3rem;
+        font-size: 20px;
+
+    }
+
+    .trailer .info2 p {
+        left: 75%;
+        height: 60%;
+        width: 20%;
+        top: -3rem;
+        font-size: 20px;
+    }
+
+
+    .jogo {
+        top: 80rem;
+        height: 25rem;
+        width: 100%;
+        z-index: 1;
+    }
+
+    .jogo img {
+        width: 60%;
+    }
+
+    .jogo h2 {
+        left: 70%;
+        font-size: 40px;
+    }
+
+    .jogo p {
+        left: 51%;
+        top: 5%;
+        height: 25%;
+        width: 25%;
+        font-size: 20px;
+    }
+
+    .rodape {
+        top: 80rem;
+    }
+}
+@media(max-width: 1280px) {
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 9%;
+        height: 9%;
+
+    }
+
+    .links ul li a {
+        font-size: 15px;
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 2%;
+        text-align: center;
+        font-size: 20px;
+        top: 20vh;
+        width: 35%;
+        height: 20%;
+        font-size: 30px;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -50vh;
+        width: 30%;
+        margin-left: 65%;
+    }
+
+    .card {
+        top: 65rem;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .card img {
+        align-content: center;
+        width: 80%;
+        height: 100%;
+        margin-left: 10%;
+        position: relative;
+    }
+
+    .card h2 {
+        display: flex;
+        position: absolute;
+        top: 0rem;
+        font-size: 35px;
+    }
+
+    .card p {
+        font-size: 20px;
+    }
+
+    .trailer {
+        top: 60rem;
+    }
+
+    .trailer iframe {
+        width: 50%;
+    }
+
+    .trailer h2 {
+        font-size: 40px;
+        top: -20%;
+    }
+
+    .trailer .info p {
+        height: 60%;
+        width: 20%;
+        top: -3rem;
+        font-size: 20px;
+
+    }
+
+    .trailer .info2 p {
+        left: 75%;
+        height: 60%;
+        width: 20%;
+        top: -3rem;
+        font-size: 20px;
+    }
+
+
+    .jogo {
+        top: 80rem;
+        height: 30rem;
+        width: 100%;
+        z-index: 1;
+    }
+
+    .jogo img {
+        width: 80%;
+    }
+
+    .jogo h2 {
+        left: 85%;
+        font-size: 30px;
+    }
+
+    .jogo p {
+        left: 73%;
+        height: 25%;
+        width: 15%;
+        font-size: 15px;
+    }
+
+    .rodape {
+        top: 80rem;
+    }
+}
+@media(max-width: 1024px) {
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 9%;
+        height: 9%;
+
+    }
+
+    .links ul li a {
+        font-size: 15px;
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 2%;
+        text-align: center;
+        font-size: 20px;
+        top: 25vh;
+        font-size: 20px;
+        width: 35%;
+        height: 20%;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -25;
+        width: 30%;
+        margin-left: 65%;
+    }
+
+    .card {
+        top: 65rem;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .card img {
+        align-content: center;
+        width: 80%;
+        height: 100%;
+        margin-left: 10%;
+        position: relative;
+    }
+
+    .card h2 {
+        display: flex;
+        position: absolute;
+        top: 0rem;
+        font-size: 35px;
+    }
+
+    .card p {
+        font-size: 18px;
+    }
+
+    .trailer {
+        top: 60rem;
+    }
+
+    .trailer iframe {
+        width: 50%;
+    }
+
+    .trailer h2 {
+        font-size: 40px;
+        top: -20%;
+    }
+
+    .trailer .info p {
+        height: 60%;
+        width: 20%;
+        top: -3rem;
+        font-size: 20px;
+
+    }
+
+    .trailer .info2 p {
+        left: 75%;
+        height: 60%;
+        width: 20%;
+        top: -3rem;
+        font-size: 20px;
+    }
+
+
+    .jogo {
+        top: 80rem;
+        height: 30rem;
+        width: 100%;
+        z-index: 1;
+    }
+
+    .jogo img {
+        width: 80%;
+    }
+
+    .jogo h2 {
+        left: 85%;
+        font-size: 30px;
+    }
+
+    .jogo p {
+        left: 73%;
+        height: 25%;
+        width: 15%;
+        font-size: 15px;
+    }
+
+    .rodape {
+        top: 80rem;
+    }
+}
+@media(max-width: 912px) {
+    .links ul a {
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+        display: flex;
+        position: absolute;
+        top: 1%;
+        width: 5%;
+        left: 90%;
+
+    }
+
+    .mobile-menu-icon img {
+        height: 80%;
+        width: 90%;
+    }
+
+    .mobile-menu-icon button {
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    .mobile-menu ul li {
+        width: 90%;
+    }
+
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 10%;
+        height: 10%;
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 5%;
+        text-align: center;
+        top: 50%;
+        width: 90%;
+        height: 20%;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -25rem;
+        width: 30%;
+    }
+
+    .card {
+        top: 55rem;
+        width: 100%;
+    }
+
+    .card h2 {
+        top: -2rem;
+        font-size: 30px;
+    }
+
+    .card p {
+        font-size: 13px;
+    }
+
+
+    .trailer {
+        top: 60rem;
+    }
+
+    .trailer .info p {
+        left: 3%;
+        height: 50%;
+        width: 45%;
+        top: 20rem;
+
+    }
+
+    .trailer .info2 p {
+        left: 50%;
+        height: 50%;
+        width: 45%;
+        top: 20rem;
+
+    }
+
+
+    .jogo {
+        top: 85rem;
+        height: 24rem;
+        width: 100%;
+
+    }
+
+    .jogo img {
+        width: 70%;
+    }
+
+    .jogo h2 {
+        left: 75%;
+        top: 0%;
+    }
+
+    .jogo p {
+        left: 60%;
+        width: 20%;
+        top: 4%;
+        height: 80%;
+        font-size: 15px;
+    }
+
+    .rodape {
+        top: 84rem;
+    }
+}
+@media(max-width: 768px) {
+    .links ul a {
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+        display: flex;
+        position: absolute;
+        top: 1%;
+        width: 5%;
+        left: 90%;
+
+    }
+
+    .mobile-menu-icon img {
+        height: 80%;
+        width: 90%;
+    }
+
+    .mobile-menu-icon button {
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    .mobile-menu ul li {
+        width: 90%;
+    }
+
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 10%;
+        height: 10%;
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 5%;
+        text-align: center;
+        top: 50%;
+        width: 90%;
+        height: 20%;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -15rem;
+        width: 30%;
+    }
+
+    .card {
+        top: 55rem;
+        width: 100%;
+    }
+
+    .card h2 {
+        top: -2rem;
+        font-size: 30px;
+    }
+
+    .card p {
+        font-size: 13px;
+    }
+
+
+    .trailer {
+        top: 60rem;
+    }
+
+    .trailer .info p {
+        left: 3%;
+        height: 50%;
+        width: 45%;
+        top: 20rem;
+
+    }
+
+    .trailer .info2 p {
+        left: 50%;
+        height: 50%;
+        width: 45%;
+        top: 20rem;
+
+    }
+
+
+    .jogo {
+        top: 85rem;
+        height: 24rem;
+        width: 100%;
+
+    }
+
+    .jogo img {
+        width: 70%;
+    }
+
+    .jogo h2 {
+        left: 75%;
+        top: 0%;
+    }
+
+    .jogo p {
+        left: 60%;
+        width: 20%;
+        top: 4%;
+        height: 80%;
+        font-size: 15px;
+    }
+
+    .rodape {
+        top: 84rem;
+    }
+}
+@media(max-width: 540px) {
+    .links ul a {
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+        display: flex;
+        position: absolute;
+        top: 1%;
+        width: 5%;
+        left: 90%;
+
+    }
+
+    .mobile-menu-icon img {
+        height: 80%;
+        width: 90%;
+    }
+
+    .mobile-menu-icon button {
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    .mobile-menu ul li {
+        width: 90%;
+    }
+
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 10%;
+        height: 10%;
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 5%;
+        text-align: center;
+        top: 50%;
+        width: 90%;
+        height: 20%;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -15rem;
+        width: 30%;
+    }
+
+    .card {
+        top: 55rem;
+        width: 100%;
+    }
+
+    .card h2 {
+        top: -2rem;
+        font-size: 30px;
+    }
+
+    .card p {
+        font-size: 9px;
+    }
+
+
+    .trailer {
+        top: 60rem;
+    }
+
+    .trailer .info p {
+        left: 3%;
+        height: 50%;
+        width: 45%;
+        top: 20rem;
+
+    }
+
+    .trailer .info2 p {
+        left: 50%;
+        height: 50%;
+        width: 45%;
+        top: 20rem;
+
+    }
+
+
+    .jogo {
+        top: 85rem;
+        height: 24rem;
+        width: 100%;
+
+    }
+
+    .jogo img {
+        width: 70%;
+    }
+
+    .jogo h2 {
+        left: 75%;
+        top: 0%;
+    }
+
+    .jogo p {
+        left: 60%;
+        width: 20%;
+        top: 4%;
+        height: 80%;
+        font-size: 15px;
+    }
+
+    .rodape {
+        top: 84rem;
+    }
+}
+@media(max-width: 425px) {
+    .links ul a {
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+        display: flex;
+        position: absolute;
+        top: 1%;
+        width: 5%;
+        left: 90%;
+
+    }
+
+    .mobile-menu-icon img {
+        height: 80%;
+        width: 90%;
+    }
+
+    .mobile-menu ul li a {
+        left: 5rem;
+        font-size: 10px;
+    }
+
+    .mobile-menu-icon button {
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 10%;
+        height: 10%;
+
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 5%;
+        text-align: center;
+        top: 45vh;
+        width: 90%;
+        height: 20%;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -30vh;
+        width: 30%;
+    }
+
+    .card {
+        top: 45rem;
+        flex-direction: column;
+
+    }
+
+    .card img {
+        margin-left: 25%;
+        width: 50%;
+        margin-bottom: -25rem;
+    }
+
+    .card h2 {
+        top: -3rem;
+        font-size: 65px;
+        margin-left: 80%;
+        line-height: 2.5;
+    }
+
+
+    .card p {
+        position: relative;
+        width: 50%;
+        height: 57vh;
+        top: 1.9vh;
+        margin-left: 25%;
+    }
+
+    .trailer {
+        top: 150rem;
+    }
+
+    .trailer iframe {
+        width: 50vh;
+    }
+
+    .trailer .info p {
+        left: 3%;
+        height: 50%;
+        width: 45%;
+        top: 20rem;
+
+    }
+
+    .trailer .info2 p {
+        left: 50%;
+        height: 50%;
+        width: 45%;
+        top: 20rem;
+    }
+
+
+    .jogo {
+        top: 180rem;
+        height: 25rem;
+        width: 100%;
+
+    }
+
+    .jogo h2 {
+        left: 75%;
+        top: 0%;
+        font-size: 30;
+    }
+
+    .jogo p {
+        margin-top: 50%;
+        position: relative;
+        left: -4rem;
+        top: -2rem;
+        width: 60%;
+        height: 50%;
+    }
+
+    .rodape {
+        top: 180rem;
+    }
+}
+@media(max-width: 430px) {
+    .links ul a {
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+        display: flex;
+        position: absolute;
+        top: 1%;
+        width: 5%;
+        left: 90%;
+
+    }
+
+    .mobile-menu-icon img {
+        height: 80%;
+        width: 90%;
+    }
+
+    .mobile-menu ul li a {
+        left: 5rem;
+        font-size: 10px;
+    }
+
+    .mobile-menu-icon button {
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 10%;
+        height: 10%;
+
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 5%;
+        text-align: center;
+        top: 35vh;
+        width: 90%;
+        height: 20%;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -20vh;
+        width: 30%;
+    }
+
+    .card {
+        top: 45rem;
+        flex-direction: column;
+
+    }
+
+    .card img {
+        margin-left: 25%;
+        width: 50%;
+        margin-bottom: -25rem;
+    }
+
+    .card h2 {
+        top: -3rem;
+        font-size: 65px;
+        margin-left: 80%;
+        line-height: 2.5;
+    }
+
+
+    .card p {
+        position: relative;
+        width: 50%;
+        height: 44vh;
+        top: -2vh;
+        margin-left: 25%;
+        font-size: 15px;
+    }
+
+    .trailer {
+        top: 150rem;
+    }
+
+    .trailer iframe {
+        width: 40vh;
+    }
+
+    .trailer .info p {
+        left: 3%;
+        height: 50%;
+        width: 45%;
+        top: 20rem;
+
+    }
+
+    .trailer .info2 p {
+        left: 50%;
+        height: 50%;
+        width: 45%;
+        top: 20rem;
+    }
+
+
+    .jogo {
+        top: 180rem;
+        height: 25rem;
+        width: 100%;
+
+    }
+
+    .jogo h2 {
+        left: 75%;
+        top: 0%;
+        font-size: 25;
+    }
+
+    .jogo p {
+        margin-top: 50%;
+        position: relative;
+        left: -4rem;
+        top: -2rem;
+        width: 60%;
+        height: 50%;
+    }
+
+    .rodape {
+        top: 180rem;
+    }
+}
+@media(max-width: 414px) {
+    .links ul a {
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+        display: flex;
+        position: absolute;
+        top: 1%;
+        width: 5%;
+        left: 90%;
+
+    }
+
+    .mobile-menu-icon img {
+        height: 80%;
+        width: 90%;
+    }
+
+    .mobile-menu ul li a {
+        left: 5rem;
+        font-size: 10px;
+    }
+
+    .mobile-menu-icon button {
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 10%;
+        height: 10%;
+
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 5%;
+        text-align: center;
+        top: 40vh;
+        width: 90%;
+        height: 20%;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -20vh;
+        width: 30%;
+    }
+
+    .card {
+        top: 45rem;
+        flex-direction: column;
+
+    }
+
+    .card img {
+        margin-left: 25%;
+        width: 50%;
+        margin-bottom: -15rem;
+    }
+
+    .card h2 {
+        top: -3rem;
+        font-size: 65px;
+        margin-left: 80%;
+        line-height: 2.5;
+    }
+
+
+    .card p {
+        position: relative;
+        width: 50%;
+        height: 43vh;
+        top: -18vh;
+        margin-left: 25%;
+        font-size: 17px;
+    }
+
+    .trailer {
+        top: 165rem;
+    }
+
+    .trailer iframe {
+        width: 40vh;
+    }
+
+    .trailer .info p {
+        left: 3%;
+        height: 50%;
+        width: 45%;
+        top: 20rem;
+
+    }
+
+    .trailer .info2 p {
+        left: 50%;
+        height: 50%;
+        width: 45%;
+        top: 20rem;
+    }
+
+
+    .jogo {
+        top: 200rem;
+        height: 25rem;
+        width: 100%;
+
+    }
+
+    .jogo h2 {
+        left: 75%;
+        top: 0%;
+        font-size: 25px;
+    }
+
+    .jogo p {
+        margin-top: 50%;
+        position: relative;
+        left: -4rem;
+        top: -2rem;
+        width: 60%;
+        height: 50%;
+    }
+
+    .rodape {
+        top: 200rem;
+    }
+}
+@media(max-width: 390px) {
+    .links ul a {
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+        display: flex;
+        position: absolute;
+        top: 1%;
+        width: 5%;
+        left: 90%;
+
+    }
+
+    .mobile-menu-icon img {
+        height: 80%;
+        width: 90%;
+    }
+
+    .mobile-menu ul li a {
+        left: 3rem;
+        font-size: 10px;
+    }
+
+    .mobile-menu-icon button {
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 10%;
+        height: 10%;
+
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 5%;
+        text-align: center;
+        top: 35vh;
+        width: 90%;
+        height: 20%;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -15vh;
+        width: 30%;
+        margin-left: 60%;
+    }
+
+    .card {
+        top: 45rem;
+        flex-direction: column;
+
+    }
+
+    .card img {
+        margin-left: 25%;
+        width: 50%;
+        margin-bottom: -15rem;
+    }
+
+    .card h2 {
+        top: -3rem;
+        font-size: 50px;
+        margin-left: 80%;
+        line-height: 3;
+    }
+
+
+    .card p {
+        position: relative;
+        width: 51%;
+        height: 44vh;
+        top: -17vh;
+        margin-left: 24%;
+    }
+
+    .trailer {
+        top: 160rem;
+    }
+
+    .trailer h2 {
+        top: -10%;
+        font-size: 20px;
+    }
+
+    .trailer iframe {
+        width: 40vh;
+    }
+
+    .trailer .info p {
+        left: 3%;
+        height: 50%;
+        width: 45%;
+        top: 15rem;
+        font-size: 15px;
+    }
+
+    .trailer .info2 p {
+        left: 50%;
+        height: 50%;
+        width: 45%;
+        top: 15rem;
+        font-size: 15px;
+    }
+
+
+    .jogo {
+        top: 190rem;
+        height: 25rem;
+        width: 100%;
+
+    }
+    .jogo img{
+        top: 10%;
+    }
+
+    .jogo h2 {
+        left: 30%;
+        top: 0%;
+    }
+
+    .jogo p {
+        margin-top: 60%;
+        position: relative;
+        left: -4rem;
+        width: 100%;
+        height: 55%;
+    }
+
+    .rodape {
+        top: 190rem;
+    }
+}
+@media(max-width: 375px) {
+    .links ul a {
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+        display: flex;
+        position: absolute;
+        top: 1%;
+        width: 5%;
+        left: 90%;
+
+    }
+
+    .mobile-menu-icon img {
+        height: 80%;
+        width: 90%;
+    }
+
+    .mobile-menu ul li a {
+        left: 3rem;
+        font-size: 10px;
+    }
+
+    .mobile-menu-icon button {
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 10%;
+        height: 10%;
+
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 5%;
+        text-align: center;
+        top: 50vh;
+        width: 90%;
+        height: 20%;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -25vh;
+        width: 30%;
+        margin-left: 60%;
+    }
+
+    .card {
+        top: 45rem;
+        flex-direction: column;
+
+    }
+
+    .card img {
+        margin-left: 25%;
+        width: 50%;
+        margin-bottom: -15rem;
+    }
+
+    .card h2 {
+        top: -3rem;
+        font-size: 50px;
+        margin-left: 80%;
+        line-height: 3;
+    }
+
+
+    .card p {
+        position: relative;
+        width: 51%;
+        height: 53vh;
+        top: -19vh;
+        font-size: 15px;
+        margin-left: 24%;
+    }
+
+    .trailer {
+        top: 160rem;
+    }
+
+    .trailer h2 {
+        top: -10%;
+        font-size: 20px;
+    }
+
+    .trailer iframe {
+        width: 50vh;
+    }
+
+    .trailer .info p {
+        left: 3%;
+        height: 50%;
+        width: 45%;
+        top: 15rem;
+        font-size: 15px;
+    }
+
+    .trailer .info2 p {
+        left: 50%;
+        height: 50%;
+        width: 45%;
+        top: 15rem;
+        font-size: 15px;
+    }
+
+
+    .jogo {
+        top: 190rem;
+        height: 25rem;
+        width: 100%;
+
+    }
+    .jogo img{
+        top: 10%;
+    }
+
+    .jogo h2 {
+        left: 30%;
+        top: 0%;
+    }
+
+    .jogo p {
+        margin-top: 60%;
+        position: relative;
+        left: -4rem;
+        width: 100%;
+        height: 55%;
+    }
+
+    .rodape {
+        top: 190rem;
+    }
+}
+@media(max-width: 360px) {
+    .links ul a {
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+        display: flex;
+        position: absolute;
+        top: 1%;
+        width: 5%;
+        left: 90%;
+
+    }
+
+    .mobile-menu-icon img {
+        height: 80%;
+        width: 90%;
+    }
+
+    .mobile-menu ul li a {
+        left: 3rem;
+        font-size: 10px;
+    }
+
+    .mobile-menu-icon button {
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 10%;
+        height: 10%;
+
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 5%;
+        text-align: center;
+        top: 50vh;
+        width: 90%;
+        height: 20%;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -25vh;
+        width: 30%;
+        margin-left: 60%;
+    }
+
+    .card {
+        top: 45rem;
+        flex-direction: column;
+
+    }
+
+    .card img {
+        margin-left: 25%;
+        width: 50%;
+        margin-bottom: -15rem;
+    }
+
+    .card h2 {
+        top: -3rem;
+        font-size: 50px;
+        margin-left: 80%;
+        line-height: 3;
+    }
+
+
+    .card p {
+        position: relative;
+        width: 51%;
+        height: 46vh;
+        top: -15vh;
+        margin-left: 24%;
+    }
+
+    .trailer {
+        top: 160rem;
+    }
+
+    .trailer h2 {
+        top: -10%;
+        font-size: 20px;
+    }
+
+    .trailer iframe {
+        width: 50vh;
+    }
+
+    .trailer .info p {
+        left: 3%;
+        height: 50%;
+        width: 45%;
+        top: 15rem;
+        font-size: 15px;
+    }
+
+    .trailer .info2 p {
+        left: 50%;
+        height: 50%;
+        width: 45%;
+        top: 15rem;
+        font-size: 15px;
+    }
+
+
+    .jogo {
+        top: 190rem;
+        height: 25rem;
+        width: 100%;
+
+    }
+    .jogo img{
+        top: 10%;
+    }
+
+    .jogo h2 {
+        left: 30%;
+        top: 0%;
+    }
+
+    .jogo p {
+        margin-top: 60%;
+        position: relative;
+        left: -4rem;
+        width: 100%;
+        height: 55%;
+    }
+
+    .rodape {
+        top: 190rem;
+    }
+}
+@media(max-width: 320px) {
+    .links ul a {
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+        display: flex;
+        position: absolute;
+        top: 1%;
+        width: 5%;
+        left: 90%;
+
+    }
+
+    .mobile-menu-icon img {
+        height: 80%;
+        width: 90%;
+    }
+
+    .mobile-menu ul li a {
+        left: 3rem;
+        font-size: 10px;
+    }
+
+    .mobile-menu-icon button {
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 10%;
+        height: 10%;
+
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 5%;
+        text-align: center;
+        top: 45vh;
+        width: 90%;
+        height: 20%;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -25vh;
+        width: 30%;
+        margin-left: 60%;
+        border: solid 1px;
+    }
+
+    .card {
+        top: 45rem;
+        flex-direction: column;
+
+    }
+
+    .card img {
+        margin-left: 25%;
+        width: 50%;
+        margin-bottom: -15rem;
+    }
+
+    .card h2 {
+        top: -3rem;
+        font-size: 50px;
+        margin-left: 80%;
+        line-height: 2.8;
+    }
+
+
+    .card p {
+        position: relative;
+        width: 51%;
+        height: 55vh;
+        top: -13.4vh;
+        margin-left: 24%;
+    }
+
+    .trailer {
+        top: 130rem;
+    }
+
+    .trailer h2 {
+        top: -10%;
+        font-size: 20px;
+    }
+
+    .trailer iframe {
+        width: 50vh;
+    }
+
+    .trailer .info p {
+        left: 3%;
+        height: 50%;
+        width: 45%;
+        top: 15rem;
+        font-size: 13px;
+    }
+
+    .trailer .info2 p {
+        left: 50%;
+        height: 50%;
+        width: 45%;
+        top: 15rem;
+        font-size: 13px;
+    }
+
+
+    .jogo {
+        top: 150rem;
+        height: 25rem;
+        width: 100%;
+
+    }
+    .jogo img{
+        top: 10%;
+    }
+
+    .jogo h2 {
+        left: 30%;
+        top: 0%;
+    }
+
+    .jogo p {
+        margin-top: 60%;
+        position: relative;
+        left: -4rem;
+        width: 100%;
+        height: 55%;
+    }
+
+    .rodape {
+        top: 149rem;
+    }
+}
+@media(max-width: 280px) {
+    .links ul a {
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+        display: flex;
+        position: absolute;
+        top: 1%;
+        width: 5%;
+        left: 90%;
+
+    }
+
+    .mobile-menu-icon img {
+        height: 80%;
+        width: 90%;
+    }
+
+    .mobile-menu ul li a {
+        left: 3rem;
+        font-size: 10px;
+    }
+
+    .mobile-menu-icon button {
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    header {
+        display: flex;
+    }
+
+    header img {
+        width: 10%;
+        height: 10%;
+
+    }
+
+    .painel p {
+        display: flex;
+        margin-left: 5%;
+        text-align: center;
+        top: 35vh;
+        width: 90%;
+        height: 20%;
+    }
+
+    .gif .gif-sung {
+        position: relative;
+        top: -15vh;
+        width: 30%;
+        margin-left: 60%;
+        border: solid 1px;
+    }
+
+    .card {
+        top: 45rem;
+        flex-direction: column;
+
+    }
+
+    .card img {
+        margin-left: 25%;
+        width: 50%;
+        margin-bottom: -15rem;
+    }
+
+    .card h2 {
+        top: -3rem;
+        font-size: 50px;
+        margin-left: 80%;
+        line-height: 2.8;
+    }
+
+
+    .card p {
+        position: relative;
+        width: 51%;
+        height: 40vh;
+        top: -5vh;
+        font-size: 10px;
+        margin-left: 24%;
+    }
+
+    .trailer {
+        top: 130rem;
+    }
+
+    .trailer h2 {
+        top: -10%;
+        font-size: 20px;
+    }
+
+    .trailer iframe {
+        width: 50vh;
+    }
+
+    .trailer .info p {
+        left: 3%;
+        height: 50%;
+        width: 45%;
+        top: 15rem;
+        font-size: 13px;
+    }
+
+    .trailer .info2 p {
+        left: 50%;
+        height: 50%;
+        width: 45%;
+        top: 15rem;
+        font-size: 13px;
+    }
+
+
+    .jogo {
+        top: 150rem;
+        height: 25rem;
+        width: 100%;
+
+    }
+    .jogo img{
+        top: 10%;
+    }
+
+    .jogo h2 {
+        left: 30%;
+        top: 0%;
+    }
+
+    .jogo p {
+        margin-top: 60%;
+        position: relative;
+        left: -4rem;
+        width: 100%;
+        height: 55%;
+    }
+
+    .rodape {
+        top: 149rem;
+    }
+}
